@@ -1,3 +1,7 @@
+legal_env/
+.env 
+src/docs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
